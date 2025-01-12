@@ -26,14 +26,24 @@ To run the game, you will need the following dependencies:
 
 ### **Setup Instructions**
 
-1. Clone the repository to your local machine:
+1. Clone the repository to your local machine or manually download the entire folder:
+   - To clone:
+     ```bash
+     git clone https://github.com/yourusername/Space_Adventure_Game_using_MachineVision.git
+     ```
+   - Alternatively, you can download the folder directly from GitHub by clicking the "Code" button and then selecting "Download ZIP."
+
+2. Install the necessary dependencies:
    ```bash
-   git clone https://github.com/yourusername/Space_Adventure_Game_using_MachineVision.git
+   pip install pygame cvzone opencv-python numpy
 
+### **Run the Program**
 
+To run the game, you only need to run the "main.py" file.
+   ```bash
+   python main.py
+   ```
 
-
-
-
+### **Author Info**
 
 This is a group project made by our team: Noorul Ghousiah and Ethar Osman.
