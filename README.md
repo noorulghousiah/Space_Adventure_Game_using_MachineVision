@@ -29,3 +29,11 @@ To run the game, you will need the following dependencies:
 1. Clone the repository to your local machine:
    ```bash
    git clone https://github.com/yourusername/Space_Adventure_Game_using_MachineVision.git
+
+
+
+
+
+
+
+This is a group project made by our team: Noorul Ghousiah and Ethar Osman.
